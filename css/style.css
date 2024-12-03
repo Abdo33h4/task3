@@ -1,0 +1,68 @@
+body
+{
+    background-color: rgb(240, 240, 240);
+
+}
+
+
+.Container{
+    width: 800px;
+    overflow: auto;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 8px;
+}
+.items{
+    width: 33.3%;
+    height: 400px;
+    float: left;
+}
+.item1{
+    background-color: rgb(247, 161, 1);
+    
+}
+.item2{
+    background-color: rgb(10, 101, 97);
+}
+.item3{
+    background-color: rgb(3, 69, 57);
+
+}
+.just
+{
+    width: 86%;
+    float: right;
+
+}
+img{
+    padding-left: 38px;
+    width: 50px;
+    padding-top: 30px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(237, 234, 234);
+    font-size: 12px;
+    width: 172px;
+    line-height: 25px;
+}
+button{
+    margin-top: 50px;
+    width: 140px;
+    height:45px;
+    border-radius: 30px;    
+    border: 0;
+}
+.btn1{
+    color: rgb(247, 161, 1);
+}
+.btn2{
+    color: rgb(10, 101, 97);
+}
+.btn3{
+    color: rgb(3, 69, 57);
+}
